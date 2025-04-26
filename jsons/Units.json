@@ -10,7 +10,6 @@
 		"range": 120,
 		"cost": 50,
 		"requiredTech": "Sailing",
-		"promotions": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	}
 ]
